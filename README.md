@@ -1,1 +1,1 @@
-# ASPNETMVCStudent.
+# ASPNETMVCStudent_Lab06
